@@ -1,0 +1,60 @@
+body {
+    background-image: url(Resimler/2637588.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.container {
+    width: 400px;
+    height: 700px;
+    background-color: rgb(223, 205, 205);
+    border-radius: 10px;
+    margin: auto;
+    margin-top: 6%;
+}
+
+h1 {
+    margin-left: 30px;
+    margin-top: 30px;
+    font-size: 40px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    display: inline-block;
+}
+
+.input {
+    background-color: rgb(223, 205, 205);
+    padding: 20px;
+    padding-right: 100px;
+    margin-left: 20px;
+    border: 0ch;
+    font-size: 20px;
+}
+
+div form a {
+    text-decoration: none;
+    background-color: red;
+    color: rgb(223, 205, 205);
+    border: 0ch;
+    border-radius: 10px;
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 10px;
+    padding-left: 130px;
+    padding-right: 130px;
+    margin-left: 17px;
+}
+
+div form a:hover {
+    background-color: rgb(177, 33, 33);
+}
+
+div a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 30px;
+    display: inline-block;
+    padding: 10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
